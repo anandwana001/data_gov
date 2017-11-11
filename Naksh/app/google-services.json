@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1019243844981",
+    "firebase_url": "https://botlabs-989c9.firebaseio.com",
+    "project_id": "botlabs-989c9",
+    "storage_bucket": "botlabs-989c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019243844981:android:666025dcc92d9ae2",
+        "android_client_info": {
+          "package_name": "botlabs.com.naksh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1019243844981-dj72kin5s8oe7r1b3oihc2vndktj6q1p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "botlabs.com.naksh",
+            "certificate_hash": "ccd249569b01c94f47f91792c603521d22365320"
+          }
+        },
+        {
+          "client_id": "1019243844981-a265mkmb2acqik83v0d4ouf8k2squ3de.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFS3YBfUwBrLOIYsRmz4UnKK7z8cWVbaI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1019243844981-a265mkmb2acqik83v0d4ouf8k2squ3de.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">EduStrom</string>
+
+    <string name="map">Map</string>
+    <string name="college">Colleges</string>
+
+    <string name="name">College Name</string>
+    <string name="depart">Department</string>
+    <string name="faculty">Faculty</string>
+    <string name="program">program</string>
+    <string name="dsg">Discipline Group</string>
+    <string name="ds">Discipline</string>
+    <string name="lrate">Literacy Rate</string>
+    <string name="mfratio">Male Female Ratio</string>
+</resources>
